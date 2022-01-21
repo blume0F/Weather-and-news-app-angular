@@ -1,0 +1,12 @@
+<H3 style="margin:40px 0px 40px 0px;">WORLD NEWS</H3>
+<div class="list-group">
+    <a *ngFor="let article of articles" 
+    class="list-group-item list-group-item-action"
+    [href]="article.url"
+    target="_blank">
+
+        {{article.title}}
+    </a>
+</div>    
+
+<app-paginator></app-paginator>
