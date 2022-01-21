@@ -1,6 +1,6 @@
 Angular app that fetches weather from https://openweathermap.org/api API and displays location based news from the https://openweathermap.org/api API. This project is a practice implementation from the Angular Course by Stephen Grider :]
 
-# Landing
+# Landing-weather-app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
